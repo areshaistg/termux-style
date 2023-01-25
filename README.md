@@ -7,7 +7,7 @@
 # Termux Style
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Maintained-No-red?style=for-the-badge">
   <img src="https://img.shields.io/github/license/adi1090x/termux-style?style=for-the-badge">
   <img src="https://img.shields.io/github/stars/adi1090x/termux-style?style=for-the-badge">
   <img src="https://img.shields.io/github/forks/adi1090x/termux-style?color=teal&style=for-the-badge">
